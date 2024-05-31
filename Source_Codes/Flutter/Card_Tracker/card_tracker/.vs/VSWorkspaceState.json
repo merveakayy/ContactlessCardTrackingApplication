@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\card_tracker",
+    "\\card_tracker\\android",
+    "\\card_tracker\\android\\app",
+    "\\card_tracker\\android\\app\\src",
+    "\\card_tracker\\android\\app\\src\\main",
+    "\\card_tracker\\android\\app\\src\\profile",
+    "\\card_tracker\\android\\gradle",
+    "\\card_tracker\\lib",
+    "\\card_tracker\\lib\\app"
+  ],
+  "SelectedNode": "\\card_tracker\\lib\\model\\credit_card.dart",
+  "PreviewInSolutionExplorer": false
+}

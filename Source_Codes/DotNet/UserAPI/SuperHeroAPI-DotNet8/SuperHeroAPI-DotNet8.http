@@ -1,0 +1,25 @@
+@UserAPI-DotNet8_HostAddress = http://localhost:7139
+@UserAPI_HostAddress = http://localhost:5184
+
+GET {{UserAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{UserAPI-DotNet8_HostAddress}}/weatherforecast
+
+###
+
+GET {{UserAPI-DotNet8_HostAddress}}/api/superuser
+
+###
+
+POST {{UserAPI-DotNet8_HostAddress}}/api/superuser
+Content-Type: application/json
+
+{
+  //User
+}
+
+###
+

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\android",
+    "\\ios",
+    "\\lib",
+    "\\lib\\app",
+    "\\lib\\app\\routes",
+    "\\lib\\data",
+    "\\lib\\model",
+    "\\lib\\view"
+  ],
+  "SelectedNode": "\\lib\\model\\user.dart",
+  "PreviewInSolutionExplorer": false
+}

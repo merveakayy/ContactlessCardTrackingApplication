@@ -1,0 +1,13 @@
+﻿namespace UserAPI.Entities
+{
+    public class User
+    {
+        public int Id { get; set; }
+        public required string Name { get; set; }
+        public string FirstName { get; set; } = string.Empty;
+        public string LastName { get; set; } = string.Empty;
+        public string Place {  get; set; } = string.Empty;
+        public string MobilePushAddress { get; set; } = String.Empty;
+        public List<Beacon> Beacons { get; set; }
+    }
+}
